@@ -17,3 +17,6 @@
 * 统计文章数及文章阅读量
 
 **在此特别感谢追梦人的博客**
+
+## 效果展示
+![](https://raw.githubusercontent.com/jamespenghong/django_blog/master/blog/blog_image.jpg)
